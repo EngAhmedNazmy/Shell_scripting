@@ -1,0 +1,1 @@
+After adding sort to my script, it takes less time

@@ -1,0 +1,1 @@
+Objective 02: Write a script to generate a user-specified count of files (for example, 10 files, 100 files, 10,000 files), such that each file randomly has a single line containing a single number ranging in value from 0 to 50, then write another script to delete duplicates in the generated set of files.
